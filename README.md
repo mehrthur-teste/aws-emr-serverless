@@ -30,6 +30,17 @@ If your team have not a cluster click in  Get started
 
 ![Captura de Tela 2025-05-15 às 10 10 04](https://github.com/user-attachments/assets/d986667d-3fa7-473f-a94b-3dd830640bb4)
 
+First fill the name and left Type in Spark and Release version te same
+
+![image](https://github.com/user-attachments/assets/8b1c93e8-7193-41bc-b492-e310c58ec90a)
+
+In Application setup options tab click in Use custom settings
+
+![Captura de Tela 2025-05-15 às 10 18 28](https://github.com/user-attachments/assets/08f7b4c3-6430-4bcb-9605-ca914eaa407d)
+
+In Pre-initialized capacity tab disabe the Enable pre-initialized capacity to save costs
+
+
 
 
 
