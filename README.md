@@ -13,6 +13,10 @@ Click in create security group
 
 ![Captura de Tela 2025-05-15 às 09 34 19](https://github.com/user-attachments/assets/487629db-0e2c-4612-aa8d-670f6631eb26)
 
+Fill the forms and tag your recourse to search in billing and cost tab
+
+![image](https://github.com/user-attachments/assets/00de7e34-c864-4257-af31-8a2d83258989)
+
 
 
 
