@@ -26,6 +26,12 @@ Then choose serverless
 ![Captura de Tela 2025-05-15 às 10 04 01](https://github.com/user-attachments/assets/1511625f-6a23-4c16-a78d-6633b62a3edb)
 
 
+If your team have not a cluster click in  Get started
+
+![Captura de Tela 2025-05-15 às 10 10 04](https://github.com/user-attachments/assets/d986667d-3fa7-473f-a94b-3dd830640bb4)
+
+
+
 
 
 
