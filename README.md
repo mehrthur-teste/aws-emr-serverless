@@ -25,7 +25,6 @@ Then choose serverless
 
 ![Captura de Tela 2025-05-15 às 10 04 01](https://github.com/user-attachments/assets/1511625f-6a23-4c16-a78d-6633b62a3edb)
 
-
 If your team have not a cluster click in  Get started
 
 ![Captura de Tela 2025-05-15 às 10 10 04](https://github.com/user-attachments/assets/d986667d-3fa7-473f-a94b-3dd830640bb4)
@@ -39,6 +38,30 @@ In Application setup options tab click in Use custom settings
 ![Captura de Tela 2025-05-15 às 10 18 28](https://github.com/user-attachments/assets/08f7b4c3-6430-4bcb-9605-ca914eaa407d)
 
 In Pre-initialized capacity tab disabe the Enable pre-initialized capacity to save costs
+
+![image](https://github.com/user-attachments/assets/44bc06dc-6fd9-4f2e-b549-ec68bee172b7)
+
+Application limits
+
+![image](https://github.com/user-attachments/assets/149d9a89-9c3e-42dd-96d2-c7127b316948)
+
+Enable interactive endpoints
+
+![image](https://github.com/user-attachments/assets/d15d1746-46bb-437b-9110-48994caa396b)
+
+Application configuration in first step you can stay unchanged
+
+![image](https://github.com/user-attachments/assets/dd06792c-9775-4a9e-b8f5-cc72dba17dfa)
+
+
+Choose your network, subnets and your ideal security group and then click in create and start application
+
+![image](https://github.com/user-attachments/assets/6ed7a78a-7254-4b41-ba8d-bd11db73c6aa)
+
+
+
+
+
 
 
 
