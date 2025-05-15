@@ -17,9 +17,14 @@ Fill the forms and tag your recourse to search in billing and cost tab
 
 ![image](https://github.com/user-attachments/assets/00de7e34-c864-4257-af31-8a2d83258989)
 
-Then could choose EMR
+Then you could choose EMR
 
 ![Captura de Tela 2025-05-15 às 10 02 40](https://github.com/user-attachments/assets/ad65738b-bfb1-4537-acc5-b6dc937cd70e)
+
+Then choose serverless
+
+![Captura de Tela 2025-05-15 às 10 04 01](https://github.com/user-attachments/assets/1511625f-6a23-4c16-a78d-6633b62a3edb)
+
 
 
 
